@@ -2,6 +2,7 @@
 
 Ejemplo de caritas
 
+![Portada del proyecto](assets/portada.jpeg)
 #Elaborado por: 
 * Mejia
 # Lenguajes usados
